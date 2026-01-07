@@ -14,7 +14,7 @@ Users struggle to find important old messages in long chats.
 - Metrics definition
 - MVP & wireframes
 
-📄 Full case study: WhatsApp-Message-Search/NL WhatsApp.pdf
+📄 Full case study: https://github.com/SrayaDas2492/Product-management-portfolio/tree/main/WhatsApp-Message-Search
 
 ## 🔜 Upcoming
 - Product teardowns
