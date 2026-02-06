@@ -16,7 +16,7 @@ Users struggle to find important old messages in long chats.
 
 📄 Full case study: 📄 Full case study: [View project](./WhatsApp-Message-Search)
 
-2. Google Pay – Product Case Study
+### 2. Google Pay – Product Case Study
 
 Improving user experience and business impact for Google Pay.
 
