@@ -26,6 +26,8 @@ It includes:
 - Guardrail metrics
 
 ### 📄 Full Case Study PDF
+[Download PDF](NL%20GooglePay.pdf)
+
 
 
 
